@@ -44,7 +44,7 @@
 
 ### Latest Version
 
-**[📄 Download Full PDF](Dev-sumer_Computational_Design_manifesto_v1.0.pdf)** *(v1.0 - November 2025)*
+**[📄 Download Full PDF in your language](https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto)** *(v1.0 - November 2025)*
 
 ---
 
