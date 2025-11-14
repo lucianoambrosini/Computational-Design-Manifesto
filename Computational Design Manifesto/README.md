@@ -2,6 +2,11 @@
 
 A collection of fifteen principles for the Dev-sumer Computational Designer, exploring the intersection of design thinking, tool-making, and computational practice.
 
+<p align="center">
+  <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/CD_manifesto.jpg" width="30%" />
+</p>
+
+
 ## Available Languages
 
 - [🇮🇹 Italian](Computational_Design_Manifesto_ITA.pdf)
