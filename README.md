@@ -1,7 +1,7 @@
 # The Dev-sumer Manifesto
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Download PDF](https://img.shields.io/badge/Download-PDF-red.svg)](Dev-sumer_Computational_Design_manifesto_v1.0.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-PDF-red.svg)](https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto)
 
 *Principles for Architects who code, Designers who Build, and Professionals who refuse to sacrifice life for work.*
 
