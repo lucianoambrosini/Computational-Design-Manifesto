@@ -14,6 +14,7 @@ A collection of fifteen principles for the Dev-sumer Computational Designer, exp
 - [🇪🇸 Spanish](Computational_Design_Manifesto_ESP.pdf)
 - [🇫🇷 French](Computational_Design_Manifesto_FR.pdf)
 - [🇩🇪 German](Computational_Design_Manifesto_DE.pdf)
+- [🇬🇷 Greek](Computational_Design_Manifesto_GRE.pdf)
 - [🇩🇰 Danish](Computational_Design_Manifesto_DEN.pdf)
 - [🇨🇳 Chinese](Computational_Design_Manifesto_CH.pdf)
 - [🇯🇵 Japanese](Computational_Design_Manifesto_JP.pdf)
